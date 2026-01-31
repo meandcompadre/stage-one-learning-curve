@@ -31,16 +31,28 @@ Your approach follows these principles:
                           - <!-- Add bugs, mistakes, and insights here as you encounter them -->
                           - <!-- Example: "2026-01-27: Always validate user input before processing - learned from crash in auth module" -->
                          
-                          - ## 6. CODE STYLE PREFERENCES
-                          - - Use descriptive variable names, never single letters except for loop indices
-                            - - Keep functions short - if over 20 lines, consider splitting
-                              - - Prefer guard clauses over nested if statements
-                                - - Handle errors explicitly, never silently fail
+                          ## 6. CODE STYLE PREFERENCES
+- Use descriptive variable names, never single letters except for loop indices
+- Keep functions short - if over 20 lines, consider splitting
+- Prefer guard clauses over nested if statements
+- Handle errors explicitly, never silently fail
 
+## 7. COMMON MISTAKES
+<!-- Log errors and mistakes here to avoid repeating them -->
+<!-- Example: "Forgot to handle null case in user lookup - always check for null returns" -->
+
+## 8. PROJECT PATTERNS
+<!-- Document coding patterns that work well for you -->
+<!-- Example: "Use factory functions for creating complex objects" -->
+
+## 9. BUSINESS CONTEXT
+- Building multiple businesses from the ground up as a solo entrepreneur
+- Currently in the learning phase - mastering tools and workflows
+- Plan to scale with people over time as businesses grow
 
 ---
 
-## 7. HOW TO USE THIS FILE
+## 10. HOW TO USE THIS FILE
 
 This CLAUDE.md file is automatically read by Claude Code (the terminal-based AI coding assistant) whenever you start a session in this project directory.
 
@@ -68,7 +80,7 @@ This CLAUDE.md file is automatically read by Claude Code (the terminal-based AI 
                                  
                                   - ---
 
-                                  ## 8. PROJECT CONTEXT
+                                  ## 11. PROJECT CONTEXT
 
                                   ### Repository Purpose
                                   This is a learning launchpad for building skills with Claude Code while developing business projects. The focus is on compounding engineering - each project and interaction builds upon previous knowledge.
@@ -80,4 +92,4 @@ This CLAUDE.md file is automatically read by Claude Code (the terminal-based AI 
                                      
                                       - ---
 
-                                      *Last updated: 2026-01-29*
+                                      *Last updated: 2026-01-30*
